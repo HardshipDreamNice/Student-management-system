@@ -1,0 +1,91 @@
+form{
+	width: 500px;
+	height: 400px;
+	margin-left: 300px;
+	margin-top: 30px;
+}
+form input{
+	margin-top: 30px;
+}
+form p input[type="text"]{
+	margin-top: 30px;
+}
+p>span{
+	color: #FFF;
+}
+.name,.tel{
+	margin-left: -25px;
+}
+.button{
+	margin-left: 40px;
+}
+.admin{
+	color: #fff;
+	font-size: 16px;
+	position: absolute;
+	right: 100px;
+	top: 20px;
+}
+.exit{
+	color: #fff;
+	position: absolute;
+	right: 20px;
+	top: 20px;
+	text-decoration: none;
+	font-size: 16px;
+}
+.exit:hover{
+	color: red;
+	text-decoration: underline;
+}
+table{
+	position: absolute;
+	right: 50px;
+	top: 200px;
+	font-size: 14px;
+	color: #fff;
+	width: 500px;
+	border: 1px solid #fff;
+
+}
+th,td{
+	text-align: center;
+}
+.tipnum{
+	left: 600px;
+	top:70px;
+}
+.tipname{
+	left: 600px;
+	top: 280px;
+}
+.tipcheck{
+	right: 220px;
+	top: 150px;
+}
+.tip{
+	color: #f00;
+	font-size: 16px;
+	position: absolute;
+	
+}
+.del{
+	color: #fff;
+}
+.del:hover{
+	color: #f00;
+}
+.tips{
+	position: absolute;
+	right: 400px;
+	top: 300px;
+	color: #f00;
+	font-size: 14px;
+}
+.success{
+	position: absolute;
+	right: 400px;
+	top: 300px;
+	color: green;
+	font-size: 14px;
+}
